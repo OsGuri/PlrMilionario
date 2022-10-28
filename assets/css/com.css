@@ -252,7 +252,7 @@ tr {
       color: #ffffff; 
       font-family: Oswald; 
       font-weight: bold; 
-      text-shadow: #000000 0px 1px 0px;
+      text-shadow: #000000 2px 2px 2px;
       text-decoration: none;
     }
     .span-btn2 {
