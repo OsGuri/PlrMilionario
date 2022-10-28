@@ -330,3 +330,8 @@ text-align: center;
   { 0% 
   { box-shadow: 0 0 0 0 #00dd00e1 } 
   80% { box-shadow: 0 0 0 12px #00ff1700 } }
+
+/* smartplayer */
+#smartplayer#smartplayer#smartplayer, #smartplayer#smartplayer#smartplayer div{
+  display : grid !important;
+}
